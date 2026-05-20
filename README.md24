@@ -1,0 +1,3 @@
+Ejercicio 24 - BC5
+Implementar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en la aplicación.
+Al ejecutar la aplicación se abre una ventana de 520x500 píxeles con el título "Ejercicio 24 - CRUD completo". Contiene un TableView con las columnas ID, Nombre y Salario, un formulario con tres campos de entrada y cuatro botones: "Leer", "Crear", "Actualizar" y "Eliminar". Al arrancar la aplicación se cargan automáticamente los datos. Al seleccionar una fila de la tabla, los campos del formulario se rellenan automáticamente con los datos del empleado seleccionado. Las operaciones sobre la base de datos se realizan mediante PreparedStatement y tras cada una se refresca la tabla con los datos actualizados.
